@@ -1,0 +1,17 @@
+h1 {
+  color: Blue;
+  font-weight: bold;
+  text-align: center;
+}
+p {
+  font-family:sans-serif;
+  font-weight: bold;
+}
+ul {
+  font-size:20px;
+  line-height: 30px;
+}
+img {
+  height:100px;
+  width: 100px;
+}

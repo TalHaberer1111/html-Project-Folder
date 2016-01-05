@@ -1,0 +1,16 @@
+h1 {
+  color: Blue;
+  font-style: bold;
+  text-align: center;
+}
+p {
+  font-family:sans-serif;
+}
+ul {
+  font-size:20px;
+  line-height: 30px;
+}
+img {
+  height:100px;
+  width: 100px;
+}
